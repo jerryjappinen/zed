@@ -508,8 +508,8 @@
       "icon": "icons/file_icons/terminal_mono.svg"
     },
     "terraform": {
-      "icon_light": null,
-      "icon_dark": null,
+      "icon_light": "icons/file_icons/terraform_light.svg",
+      "icon_dark": "icons/file_icons/terraform_dark.svg",
       "icon": "icons/file_icons/terraform_mono.svg"
     },
     "toml": {
